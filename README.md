@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rocio Ordoñez</h1>
 <h3 align="center">A data analyst</h3>
 
-- 🔭 I’m currently working on **Technology Instructor**
+- 🔭 I’m currently working on **Data Technology**
 
 - 🌱 I’m currently learning **about data visualization**
 
